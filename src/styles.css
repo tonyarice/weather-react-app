@@ -1,0 +1,26 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  background: linear-gradient(
+      to top,
+      rgb(253, 240, 233) 25%,
+      rgb(255, 194, 203) 75%
+    )
+    fixed;
+  background-size: cover;
+  height: 100%;
+}
+
+
+li {
+  list-style-type: none;
+  text-transform: capitalize;
+  padding: 0;
+}
+
+.Wind {
+  text-transform: none;
+}
