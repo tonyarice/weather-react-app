@@ -1,6 +1,7 @@
 import { StrictMode } from "react";
 import ReactDOM from "react-dom";
 import Search from "./Search";
+import Credit from "./Credit";
 import "./styles.css";
 
 function App() {
@@ -8,6 +9,8 @@ function App() {
     <div className="App">
       <h1>Weather App</h1>
       <Search />
+      <br />
+      <Credit />
     </div>
   );
 }
