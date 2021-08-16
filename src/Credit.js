@@ -11,6 +11,7 @@ export default function Credit() {
             <a
               href="https://github.com/tonyarice/weather-react-app"
               target="_blank"
+              rel="noreferrer"
               class="hyperlink-line"
               >Open-source code</a
             >
