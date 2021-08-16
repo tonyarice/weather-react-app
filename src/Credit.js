@@ -13,7 +13,7 @@ export default function Credit() {
               target="_blank"
               rel="noreferrer"
               class="hyperlink-line"
-              >Open-source code</a
+              >Open-source code </a
             >
             by Tonya Rice
           
